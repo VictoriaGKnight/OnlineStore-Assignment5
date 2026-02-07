@@ -1,0 +1,22 @@
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f9fafb;
+    padding: 12px;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+.remove-btn {
+    background: #ef4444;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.remove-btn:hover {
+    background: #dc2626;
+}

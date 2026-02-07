@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 10px;
+}
+
+.app h1 {
+  text-align: center;
+  color: #C9184A;
+}
+
+.shopping-cart h2 {
+  text-align: center;
+  color: #FF4D6D;
+  font-size: 25px;
+}
+
+.app h3 {
+  color: #C9184A;
+}
+
+.app h4 {
+  text-align: right;
+  color: #C9184A;
+  font-size: 20px;
+}
+
+.empty-cart {
+  margin: 40px auto;
+  max-width: 900px;
+  padding: 40px 20px;
+  background-color: #FF8FA3;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.empty-cart p {
+  font-size: 18px;
+  color: white;
+}
